@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+[![Gnusho's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/gnusho/github-readme-stats)
+
 - School Projects in [gnusho-school](https://github.com/gnusho-school)
-- Person Projects in [gnusho-personal](https://github.com/gnusho-personal)
+
 <!--
 **gnusho/gnusho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
